@@ -1,2 +1,7 @@
-# StoryCube
+**StoryCube** is a visual analytics system designed for exploring large-scale narrative data, overcoming the limitations of traditional linear storytelling. It enables **multi-perspective storytelling** and **level-of-detail exploration** through a unified visual framework.
 
+**Overall Framework.** The system seamlessly integrates three distinct analytical perspectives—**temporal, spatial, and entity-centric**—into a single coordinated environment. These perspectives are supported by a multi-layered data model and linked through synchronized interactions, allowing users to examine complex narratives from multiple dimensions simultaneously.
+
+**Core Technique.** Central to StoryCube is **StoryMap**, a spatial-topological visualization technique. StoryMap algorithmically derives a "narrative geography" directly from the content, optimizing spatial-semantic layouts to balance distribution density and transition continuity. This allows the spatial relationships and narrative flows among entities to be presented clearly and intuitively.
+
+**Proven Effectiveness.** Comprehensive case studies demonstrate that StoryCube enhances narrative comprehension, supports perspective-rich analysis, and facilitates the discovery of latent patterns within complex stories. A user study further confirms the system’s usefulness and ease of use.
